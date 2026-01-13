@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Dears",
+  "base_artist": "TROISANGES",
+  "createdAt": "2026-01-13T17:50:47.385465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Will Become Silhouettes - Matthew Dear's Not Scared Remix",
+      "artist": "The Postal Service",
+      "has_synced": false,
+      "path": "select/01_We_Will_Become_Silhouettes_-_Matthew_Dear's_Not_Scared_Remix_The_Postal_Service.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dears",
+      "artist": "葉月 恋 (CV.青山なぎさ)",
+      "has_synced": false,
+      "path": "select/02_Dears_葉月_恋_(CV.青山なぎさ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dears",
+      "artist": "葉月恋(CV.青山なぎさ)",
+      "has_synced": false,
+      "path": "select/03_Dears_葉月恋(CV.青山なぎさ).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dears",
+      "artist": "平安名すみれ (CV.ペイトン尚未)",
+      "has_synced": false,
+      "path": "select/04_Dears_平安名すみれ_(CV.ペイトン尚未).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dears",
+      "artist": "D'espairsRay",
+      "has_synced": true,
+      "path": "select/05_Dears_D'espairsRay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dears(MARS VERSION)",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/06_Dears(MARS_VERSION)_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "dears",
+      "artist": "GACKT",
+      "has_synced": true,
+      "path": "select/07_dears_GACKT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What I'm Trying To Say - Pt. 2 / The Dears",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/08_What_I'm_Trying_To_Say_-_Pt._2___The_Dears_Stars.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Will Become Silhouettes (Matthew Dear's Not Scared Mix)",
+      "artist": "The Postal Service",
+      "has_synced": false,
+      "path": "select/09_We_Will_Become_Silhouettes_(Matthew_Dear's_Not_Scared_Mix)_The_Postal_Service.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Dears",
+      "artist": "Dears",
+      "has_synced": true,
+      "path": "select/10_My_Dears_Dears.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dears",
+      "artist": "D'espairs Ray",
+      "has_synced": true,
+      "path": "select/11_Dears_D'espairs_Ray.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dears ～LLV～",
+      "artist": "Gackt",
+      "has_synced": false,
+      "path": "select/12_Dears_~LLV~_Gackt.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dears ～ゆるやかな奇跡～",
+      "artist": "茅原実里",
+      "has_synced": false,
+      "path": "select/13_Dears_~ゆるやかな奇跡~_茅原実里.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What I'm Trying To Say (Pt. 1 / The Dears)",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/14_What_I'm_Trying_To_Say_(Pt._1___The_Dears)_Stars.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dears",
+      "artist": "TROISANGES",
+      "has_synced": false,
+      "path": "select/pl_01_Dears_TROISANGES.txt"
+    }
+  ]
+}
